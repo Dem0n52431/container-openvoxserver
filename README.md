@@ -21,7 +21,7 @@ This project hosts the Containerfile and the required scripts to build a OpenVox
 
 You can run a copy of Puppet Server with the following Docker command:
 
-```bash
+``` "domain_CW-79"
 podman run --name openvox --hostname openvox ghcr.io/openvoxproject/openvoxserver:8.8.0-latest
 ```
 
